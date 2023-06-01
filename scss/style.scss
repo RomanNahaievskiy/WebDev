@@ -1,0 +1,22 @@
+// Import
+@import "nullstyle";
+
+// Common
+.wrapper {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.header {
+}
+.page {
+    flex-grow: 1;
+}
+.footer {
+}
+[class*="_container"] {
+    margin: 0 auto;
+    max-width: 1200px;
+    padding: 0 20px;
+}
+//========================================================================================================================================================
