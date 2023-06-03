@@ -264,7 +264,7 @@ a.header__logo div {
   height: 100%;
   top: 0;
   left: 0;
-  background-color: #3f3404;
+  background-color: #402f11;
   box-shadow: 0px 3px 3px #8d3718;
   z-index: 0;
 }
@@ -311,7 +311,7 @@ a.header__logo div {
 }
 @media (max-width: 989.98px) {
   .header__container .menu._active .menu__body {
-    background-color: rgba(141, 55, 24, 0.9411764706);
+    background-color: #241611;
     left: 0;
     transition: all 0.3s ease 0s;
   }
